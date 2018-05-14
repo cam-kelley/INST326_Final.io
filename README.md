@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Flashcards!
 
-You can use the [editor on GitHub](https://github.com/cam-kelley/INST326_Final.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is our page for our final project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Instructions
 
-### Markdown
+To run our code, you will need access to it our repository. Use the file "Final_Deliverable.py" and "example.csv" to run and test the code.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# What It Does
 
-```markdown
-Syntax highlighted code block
+You will be asked to upload a csv file to the program, if you wish. It must be in the format or questions in the first column and answers in the second column.
+If you do not elect to upload a file, you will be aksed to input your own questions and answer.
+You will then be asked the questions in random order.
+You will see what you answered correctly and incorrectly.
+You will have the option to create a csv file of your inputs.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cam-kelley/INST326_Final.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Happy playing!
